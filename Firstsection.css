@@ -1,0 +1,248 @@
+.first-section{
+    display: flex;
+
+    margin-top: -15px;
+    height: 650px;
+    width: 100%;
+}
+
+
+/* start Styling for the left side of the page */
+
+.left-section{
+    margin-top: 30px;
+    width: 25%;
+    height: 750px;
+    border-top-width: 1px;
+    border-top-style:solid ;
+    border-top-color: #928e8e;
+
+    border-right-width: 1px;
+    border-right-style:solid ;
+    border-right-color: #928e8e;
+    background-color:ivory;
+    display: flex;
+    flex-direction: column;
+}
+
+.logo{
+    /* margin-top: 30px;
+    margin-left: 40px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    
+}
+
+.circle{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: end;
+ 
+}
+.circleM{
+    
+    width:200px;
+    height: 200px;
+    border-radius: 100px;
+    border-color: #928e8e;
+    border-style:solid ;
+    border-width:1px;
+}
+.Image-first{
+    margin-top: 50px;
+    width: 100%;
+    height: 400px;
+}
+.imgf{
+
+    width: 100%;
+    height:400px;
+
+}
+/* End Styling for the left side of the page */
+
+
+
+/* start Styling for the middle side of the page */
+
+.middle-section{
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    background-color: ivory;
+    height: 750px;
+    width: 37.5%;
+}
+
+.nav-bar{
+
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.nav-bar .links a{
+    text-decoration: none;
+    color:#333;
+
+}
+.nav-bar .links :hover{
+    padding: 5px;
+    background-color:#333333;
+    color: ivory;
+    transition: background-color 2s, color 2s;
+
+
+}
+
+
+.text{
+    width: 100%;
+    height: 200px;
+
+   
+   
+}
+
+.text h1{
+    width: 80%;
+    color: #333;
+    height: 200px; 
+    font-size: 70px;
+    font-family: Arial;
+    margin-left: -100px;
+    margin-top: 20px;
+    
+}
+
+.Info{
+    margin-top: 50px;
+    width: 100%;
+    height:400px;
+ 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.Details{
+    width:75%;
+    height:400px;
+
+}
+
+.motto{
+    width: 100%;
+ 
+    height: 70px;
+}
+.motto p{
+    margin-top: 0;
+    width:70%;
+    color: #333;
+    line-height:30px;
+}
+
+.container-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top:20px ;
+    width: 100%;
+    height: 70%;
+
+
+}
+
+.stat{
+    
+    width:100%;
+    height: 45%;
+    
+}
+
+
+.Features{
+    margin-left: 20px;
+    width: 100%;
+    height:45%;
+   
+}
+/* End Styling for the middle side of the page */
+
+
+
+/* start Styling for the right side of the page */
+
+
+.right-section{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    height: 750px;
+    width: 37.5%;
+    border-left-style:solid;
+    border-left-width: 1px;
+    border-left-color: #928e8e;
+
+
+}
+.Location-book{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+
+}
+.Location-book .Location a{
+    text-decoration: none;
+    color: #333;
+}
+
+.Location-book .Location :hover{
+    padding: 5px;
+    background-color:#333333;
+    color: ivory;
+    transition: background-color 2s, color 2s;
+}
+
+.Location-book .BookNow a{
+    text-decoration: none;
+    color:ivory;
+    padding: 5px;
+    background-color: #333;
+}
+
+.Location-book .BookNow :hover{
+    padding: 5px;
+    background-color:ivory;
+    color: #333;
+    transition: background-color 2s, color 2s;
+}
+
+
+.right-image{
+    width: 100%;
+    height: 500px;
+   
+}
+
+.Explore{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: ivory;
+}
+
+/* start Styling for the right side of the page */

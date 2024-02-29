@@ -1,0 +1,58 @@
+.Fourth-section{
+    width: 100%;
+    height: 400px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+}
+.column1{
+    width:100%;
+    height:200px;
+    display: flex;
+    justify-content: center;
+}
+.r1{
+    width: 300px;
+    height:200px;
+   
+}
+
+.r2{
+    width: 300px;
+    height:200px;
+   
+}
+
+.r3{
+    width: 300px;
+    height:200px;
+    
+}
+
+
+.column2{
+
+    width:100%;
+    height:200px;
+    display: flex;
+    justify-content: center;
+}
+
+.r4{
+    width: 300px;
+    height:200px;
+    
+}
+
+.r5{
+    width: 300px;
+    height:200px;
+  
+}
+
+.r6{
+    width: 300px;
+    height:200px;
+    
+}
+

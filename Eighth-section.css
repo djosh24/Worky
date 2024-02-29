@@ -1,0 +1,14 @@
+.Eighth-section{
+    width:100%;
+    height:500px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.Membership{
+    width: 90%;
+    height:100px;
+    
+   
+}
